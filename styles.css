@@ -6,6 +6,7 @@
 body {
     width: 100%;
     font-family: 'Lato', sans-serif;
+    font-size: 1em;
 }
 
 
@@ -16,33 +17,34 @@ main {
     margin: auto;
 }
 
-.talk_about_code {
+.studenter_pratar_kod {
     width: 100%;
 }
 
 h1 {
     text-align: center;
-    padding: 8% 0 2% 0;
+    padding: 12% 0 2% 0;
+    font-size: 2.5em;
 }
 
 h2 {
     max-width: 100%;
     text-align: center;
-    padding: 5% 5% 0 5%;
+    padding: 5% 5% 3% 5%;
 }
 
-.webbutvecklingsprogrammet_intro {
+.ingress {
     width: 60%;
     max-width: 700px;
     margin: auto;
     
 }
 
-.webbutvecklingsprogrammet_intro p {
+.ingress p {
     padding: 6% 0 6% 0;
     font-size: x-large;
     text-align: left;
-    line-height: 1.3em;
+    line-height: 1.4em;
 }
 
 .bild_studenter img{
@@ -76,7 +78,7 @@ h2 {
     line-height: 1.4em;
 }
 
-.quote {
+.citat {
     font-size: x-large;
     font-weight: 300;
     padding: 15% 0;
@@ -110,7 +112,7 @@ h3 {
   
 }
 
-.quote_marie {
+.citat_marie {
     font-size: x-large;
     font-weight: 300;
     line-height: 1.4em;
